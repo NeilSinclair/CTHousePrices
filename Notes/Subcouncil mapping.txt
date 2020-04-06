@@ -1,0 +1,17 @@
+19 - Peninsula
+20 - Southern Suburbs
+16 - Atlantic Seaboard
+17, 18 - SE Suburbs
+4, 15 - North Central
+23, 11, 14, 13, 9, 12, 10 - Cape Flats South
+
+22, 5, 21, - Cape Flats North
+24, 8 - Somerset West
+
+6, 2, 7 Northern Suburbs
+3,1 West Coast
+
+Check
+1, 2,3,4,5 6, 7, 8, 9
+10, 11, 12, 13, 14, 15, 16, 17, 18, 19
+20, 21, 22, 23, 24
